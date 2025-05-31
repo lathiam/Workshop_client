@@ -1,0 +1,20 @@
+# Traitement de données
+pandas
+numpy
+scipy
+openpyxl
+xlrd
+
+# Visualisation
+matplotlib
+seaborn
+plotly
+bokeh
+altair
+missingno
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
